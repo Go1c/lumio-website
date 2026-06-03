@@ -1,0 +1,13 @@
+:root {
+  color: #07164a;
+  background: #f7fbff;
+  font-family: "Trebuchet MS", "Segoe UI", sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
